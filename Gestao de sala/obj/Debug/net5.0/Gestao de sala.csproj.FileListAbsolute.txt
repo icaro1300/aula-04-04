@@ -1,0 +1,48 @@
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.csprojAssemblyReference.cache
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.AssemblyInfoInputs.cache
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.AssemblyInfo.cs
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.RazorAssemblyInfo.cache
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.RazorAssemblyInfo.cs
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\appsettings.json
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\Gestao de sala.exe
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\Gestao de sala.deps.json
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\Gestao de sala.runtimeconfig.json
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\Gestao de sala.runtimeconfig.dev.json
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\Gestao de sala.dll
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\ref\Gestao de sala.dll
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\Gestao de sala.pdb
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\Gestao de sala.Views.dll
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\Gestao de sala.Views.pdb
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\Dapper.dll
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\staticwebassets\Gestao de sala.StaticWebAssets.Manifest.cache
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\staticwebassets\Gestao de sala.StaticWebAssets.xml
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\scopedcss\bundle\Gestao de sala.styles.css
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.TagHelpers.input.cache
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.TagHelpers.output.cache
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.RazorCoreGenerate.cache
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.RazorTargetAssemblyInfo.cache
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.RazorTargetAssemblyInfo.cs
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.Views.pdb
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.csproj.CopyComplete
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.dll
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\ref\Gestao de sala.dll
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.pdb
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Gestao de sala.genruntimeconfig.cache
+C:\Users\android\Documents\ICARO NAO APAGAR\visual studio 04-04\Gestao de sala\Gestao de sala\obj\Debug\net5.0\Razor\Views\IndexListaSala.cshtml.g.cs
